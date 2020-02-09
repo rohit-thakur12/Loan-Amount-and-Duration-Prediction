@@ -1,6 +1,10 @@
 # Loan-Amount-and-Duration-Prediction
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rohit-thakur12/Loan-Amount-and-Duration-Prediction-using-lightGBM/master)
+
 There are two models here:
+
+
 
 1.) To predict the loan amount using lightGBM. 
 2.) To predict loan duration using logistic regression.
